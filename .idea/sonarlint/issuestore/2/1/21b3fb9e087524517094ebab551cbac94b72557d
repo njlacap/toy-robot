@@ -1,0 +1,11 @@
+
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¹Üàâ
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¹Üàâ8ÿÕÜž°0
+[
+java:S18547"@Remove this useless assignment to local variable "toyRobotYPos".(Œ´˜Žúÿÿÿÿ
+[
+java:S1854C"@Remove this useless assignment to local variable "toyRobotXPos".(®Áˆáûÿÿÿÿ
+[
+java:S1854O"@Remove this useless assignment to local variable "toyRobotYPos".(Ì§¼‡ùÿÿÿÿ
+[
+java:S1854["@Remove this useless assignment to local variable "toyRobotXPos".(¼ì‹Øúÿÿÿÿ
