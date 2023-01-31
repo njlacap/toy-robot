@@ -24,7 +24,6 @@ public class App {
             }
         }
         System.out.println(String.format("%n%s {%s,%s}%n","Size set to",tableSize[0],tableSize[1]));
-        Simulation simulation = new Simulation(tableSize[0],tableSize[1]);
-        simulation.simulate();
+        new Simulation(tableSize[0],tableSize[1]).simulate();
     }
 }
